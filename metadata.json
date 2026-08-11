@@ -1,0 +1,6 @@
+{
+  "name": "Executive Engineering Portfolio",
+  "description": "Ultra-professional, serious dark-mode multi-page portfolio application powered by IndexedDB client storage, clean SPA routing, and an admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
